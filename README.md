@@ -1,4 +1,4 @@
-# 🛍️  Vastra-ONLINE_SHOPING ( E-Commerce Online  Website )
+# 🛍️  Vastra-ONLINE_SHOPING ( E-Commerce Website )
 
 A fully responsive and interactive online shopping website built using **HTML**, **CSS**, and **JavaScript**. This project includes product listings with clickable images, pricing, services, and contact functionality,
 along with social media and mobile app download options.
